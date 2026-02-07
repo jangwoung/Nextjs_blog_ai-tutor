@@ -3,3 +3,20 @@
 .specify/
 .cursorrules
 ./specs/
+
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js
+.next/
+out/
+
+# Env (keep .env.example)
+.env
+.env*.local
+
+# Debug / OS
+npm-debug.log*
+.DS_Store

@@ -66,7 +66,7 @@ Constitution は「プロジェクトの不変の方針・原則」を決める�
 
 ### 技術制約・スタック（SECTION_2 の例）
 
-- **FW**: Next.js 14+（App Router）、TypeScript、Tailwind CSS。
+- **FW**: Next.js 16（App Router）、TypeScript、Tailwind CSS。
 - **データ**: Supabase（DB）。画像: Supabase Storage。
 - **認証**: 初版は簡易パスワード + 署名付き Cookie。発展で Auth.js を検討可。
 - **本文**: Markdown を DB に文字列で保存し、`react-markdown` 等でレンダリングする。

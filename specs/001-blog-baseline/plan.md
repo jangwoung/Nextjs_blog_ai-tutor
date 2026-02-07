@@ -10,7 +10,7 @@
 ## Technical Context
 
 **Language/Version**: TypeScript (Node 20+ / Edge)  
-**Primary Dependencies**: Next.js 14+ (App Router), Supabase (client + server), Tailwind CSS  
+**Primary Dependencies**: Next.js 16 (App Router), Supabase (client + server), Tailwind CSS  
 **Storage**: Supabase (PostgreSQL) for posts; Supabase Storage for images  
 **Testing**: Vitest or Jest, React Testing Library; E2E optional (Playwright)  
 **Target Platform**: Web (Cloudflare Pages / Workers)  
