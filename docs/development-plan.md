@@ -161,7 +161,7 @@ Cloudflare の実行環境では **サーバー側のファイル書き込み（
 
 | 項目 | 採用案 |
 | ---- | ------ |
-| FW | Next.js 14+ (App Router) |
+| FW | Next.js 16 (App Router) |
 | 言語 | TypeScript |
 | スタイル | Tailwind CSS |
 | データ | Supabase（DB）。記事は posts テーブルに保存 |
